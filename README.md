@@ -1,4 +1,8 @@
-# @funhouse-atelier/logger-cjs
+# @funhouse-atelier/logger
+
+## Description
+
+A customized version of the `loglevel` NPM package.
 
 ## Requirements
 
